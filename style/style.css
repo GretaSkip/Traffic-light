@@ -23,6 +23,16 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: grey;
+}
+
+#div1 >*{
+    display: inline-block;
+}
+
 #big{
     border-top:solid;
     border-bottom:solid; 
